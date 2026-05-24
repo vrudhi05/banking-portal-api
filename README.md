@@ -63,10 +63,9 @@ This project uses **MySQL** as the database.
 ### 📌 Create Database
 This project uses **MySQL** as the database.
 Create Database 
-
 CREATE DATABASE banking_db;
 
-📌 application.properties Configuration
+### 📌 application.properties Configuration
 spring.datasource.url=jdbc:mysql://localhost:3306/banking_db
 spring.datasource.username=root
 spring.datasource.password=your_password
